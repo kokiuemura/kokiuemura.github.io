@@ -1,0 +1,37 @@
+canvas {
+  display: block;
+  margin: 0 auto 12px;
+  position: center;
+
+}
+
+
+
+#replay {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 40px;
+  padding: 7px;
+  background-color: #ececec;
+  border-radius: 30px;
+  color: black;
+  font-family: impact;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+
+
+
+
+
+}
+  a {
+  text-decoration: none;
+}
+
+
+
+#replay.hidden {
+  display: none;
+}
